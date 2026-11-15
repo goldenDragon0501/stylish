@@ -1,18 +1,10 @@
 
 <div align="center">
   <br />
-    <a href="https://bit.ly/3LboNOQ" target="_blank">
-           <img src="https://i.postimg.cc/3xjm5F9w/main-thumbnail.png" alt="Project Banner">
     </a>
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react-native" />
-    <img src="https://img.shields.io/badge/-React_Native_Reanimated-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react-native-reanimated" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logoColor=white&logo=node.js&color=339933" alt="node.js" />
-    <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logoColor=white&logo=express&color=000000" alt="express" />
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
   </div>
 
   <h3 align="center">Full Stack E-Commerce App</h3>
@@ -78,7 +70,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Abdullah0Dev/stylish.git
+git clone https://github.com/goldenDragon/stylish.git
 cd stylish
 ```
 
